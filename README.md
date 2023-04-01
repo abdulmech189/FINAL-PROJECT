@@ -6,3 +6,6 @@ STEP 1: Problem Statement:
   has breast cancer using the SVM and Ensembling Techniques. Perform necessary exploratory
   data analysis before building the model and evaluate the model based on performance
   metrics other than model accuracy.
+  
+STEP 2: Data collection:
+  Importing Necessary packages like Pandas, Numpy, SKlearn, Seaborn, Matplotlib etc.
