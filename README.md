@@ -8,8 +8,8 @@ To Predict Breast Cancer using SVM and Ensemble ML models..
   metrics other than model accuracy.
   
 **STEP 2: Data collection:**
-  Importing Necessary packages like Pandas, Numpy, SKlearn, Seaborn, Matplotlib etc.
-  Importing the Historical Breast Cancer dataset..
+  1. Importing Necessary packages like Pandas, Numpy, SKlearn, Seaborn, Matplotlib etc.
+  2. Importing the Historical Breast Cancer dataset..
   
 **STEP 3: Data Cleaning:**
   1. Dropping Unnecessary columns..
@@ -34,4 +34,6 @@ To Predict Breast Cancer using SVM and Ensemble ML models..
   3. Fitting XGBoost model, by finding best learning rate (lambda) using Cross validation..
 
 **STEP 7: Validation of Model:**
-  Validating
+  1. Validating SVM, Random Forest, XGBoost model with Accuracy score, F1 score, AUROC score..
+  2. Finding Confusion matrix for each model..
+  3. Finding Classification report, Specificity, Sensitivity of each mddel..
