@@ -1,4 +1,4 @@
-# FINAL-PROJECT-1
+# FINAL-PROJECT: Breast Cancer Prediction
 To Predict Breast Cancer using SVM and Ensemble ML models..
 
 **STEP 1: Problem Statement:**
