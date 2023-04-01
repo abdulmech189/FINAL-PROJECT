@@ -36,4 +36,4 @@ To Predict Breast Cancer using SVM and Ensemble ML models..
 **STEP 7: Validation of Model:**
   1. Validating SVM, Random Forest, XGBoost model with Accuracy score, F1 score, AUROC score..
   2. Finding Confusion matrix for each model..
-  3. Finding Classification report, Specificity, Sensitivity of each mddel..
+  3. Finding Classification report, Specificity, Sensitivity of each model..
